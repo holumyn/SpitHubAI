@@ -1,0 +1,26 @@
+{
+  "name": "hacherthon",
+  "version": "1.0.0",
+  "description": "RESTful HackerthonAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "Echo \"Error: No Error Specified\" && exit 1 ",
+    "start": "nodemon server.js"
+  },
+  "repository":{
+    "type":"git"
+  },
+  "keywords": [
+    "RESTful"
+    "SpitHubAPI"
+  ],
+  "author": "SpitHubAI Team",
+  "license": "ISC",
+  "bugs":{
+    "url": "https://github.com/generalgmt/RESTfulAPI#readme",
+
+  },
+  "dependencies":{
+    "express": "^4.14.0"
+  }
+}
