@@ -1,0 +1,3 @@
+# SpitHubAI
+
+## Saliva analyzer
