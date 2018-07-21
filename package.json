@@ -7,20 +7,20 @@
     "test": "Echo \"Error: No Error Specified\" && exit 1 ",
     "start": "nodemon server.js"
   },
-  "repository":{
-    "type":"git"
+  "repository": {
+    "type": "git"
   },
   "keywords": [
-    "RESTful"
+    "RESTful",
     "SpitHubAPI"
   ],
   "author": "SpitHubAI Team",
   "license": "ISC",
-  "bugs":{
-    "url": "https://github.com/generalgmt/RESTfulAPI#readme",
-
+  "bugs": {
+    "url": "https://github.com/generalgmt/RESTfulAPI#readme"
   },
-  "dependencies":{
-    "express": "^4.14.0"
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.18.3"
   }
 }
